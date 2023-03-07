@@ -1,2 +1,1 @@
-# test
-test pera
+# super_dus0_study_pkg
